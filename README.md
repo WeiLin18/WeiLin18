@@ -1,7 +1,7 @@
 ## About Me
-Name: Wei Lin
-Role: Frontend Developer (main) / Web Designer
-My story: https://weilin18.medium.com/
+- Name: Wei Lin
+- Role: Frontend Developer (main) / Web Designer
+- My story: https://weilin18.medium.com/
 
 
 ## Projects
