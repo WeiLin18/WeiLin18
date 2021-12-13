@@ -18,7 +18,7 @@
   - developed by Next.js / React.js
 - Collections
   - [Web layout training](https://github.com/WeiLin18/Web-Layout-Training--Collections)
-  - [React workshop](https://github.com/WeiLin18/React-workshop-collection)
+  - [React workshop](https://github.com/WeiLin18/React-workshop-collections)
 
 ## Knowledge
 
