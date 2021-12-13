@@ -17,8 +17,8 @@
   - traveling information website
   - developed by Next.js / React.js
 - Collections
-  - React workshop
   - [Web layout training](https://github.com/WeiLin18/Web-Layout-Training--Collections)
+  - [React workshop](https://github.com/WeiLin18/React-workshop-collection)
 
 ## Knowledge
 
