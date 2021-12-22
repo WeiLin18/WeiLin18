@@ -1,6 +1,6 @@
 ## About Me
 - Name: Wei Lin
-- Role: Frontend Developer (main) / Web Designer
+- Role: Frontend Developer 
 - My story: https://weilin18.medium.com/
 
 
@@ -64,6 +64,7 @@
 #### Learning List recently
 - TypeScript
 - Data visualization, like Chart.js
+- Tailwind
 
 ## Interests
 - Programming
