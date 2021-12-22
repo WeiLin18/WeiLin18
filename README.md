@@ -14,8 +14,13 @@
   - developed by Vue.js / PHP / MySQL
   - team project, responsible for web design / product photography / FE development / webserver building
 - [TaiwanGo](https://quizzical-allen-890ea7.netlify.app/) - [source code](https://github.com/WeiLin18/TaiwanGo)
-  - traveling information website
+  - travel guide website
   - developed by Next.js / React.js
+  - integrated 3rd-party API and leaflet map
+- 2021 Taiwanese FE survey - [source code](https://github.com/WeiLin18/2021-FE-survey) 
+  - survey results visualization
+  - developed by Next.js / React.js
+  - integrated Chart.js and MongoDB database
 - Collections
   - [Web layout training](https://github.com/WeiLin18/Web-Layout-Training--Collections)
   - [React workshop](https://github.com/WeiLin18/React-workshop-collections)
@@ -37,11 +42,11 @@
 - Testing
    - Jest / React-Testing-Library
 - Recent tech stack 
-   - Next.js + Material-UI + emotions + axios + Jest
+   - Next.js + Material-UI + emotions + axios + swr + Jest
 
 #### Backend / Others
-- Languages
-   - PHP / MySQL (have experience)
+- Languages & Database
+   - PHP / MySQL / MongoDB (have experience)
 - Version Management
    - git / git-flow
 - Team work tools
