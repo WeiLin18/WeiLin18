@@ -17,7 +17,7 @@
   - travel guide website
   - developed by Next.js / React.js
   - integrated 3rd-party API and leaflet map
-- 2021 Taiwanese FE survey - [source code](https://github.com/WeiLin18/2021-FE-survey) 
+- [2021 Taiwanese FE survey](https://2021-fe-survey-production.vercel.app/) - [source code](https://github.com/WeiLin18/2021-FE-survey) 
   - survey results visualization
   - developed by Next.js / React.js
   - integrated Chart.js and MongoDB database
