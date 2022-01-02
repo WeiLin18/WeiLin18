@@ -14,7 +14,7 @@
 - [Nino Car](https://weilin18.com/) - [source code](https://github.com/WeiLin18/Ninocar) / [mockup](https://xd.adobe.com/view/225223e6-bc6e-42a1-8491-e0772d33bc17-7701/screen/f7285d6d-3eb6-4540-80d2-dbea640de9ed/specs/)
   - B2C E-Commerce Website selling model car
   - team project(7 members), responsible for web design / product photography / web(front side) development / deployment
-  - developed by Vue.js, PHP, MySQL / including front side and back side(CMS)  
+  - developed by Vue.js, PHP, MySQL, Gulp / including front side and back side(CMS)  
 - [TaiwanGo](https://quizzical-allen-890ea7.netlify.app/) - [source code](https://github.com/WeiLin18/TaiwanGo)
   - travel guide website
   - developed by Next.js / integrated 3rd-party API and leaflet map
