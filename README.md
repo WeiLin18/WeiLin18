@@ -3,6 +3,7 @@
 - Name: Wei Lin
 - Role: Frontend Developer
 - My story: https://weilin18.medium.com/
+<<<<<<< HEAD
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeiLin18&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -20,10 +21,26 @@
   - travel guide website
   - developed by Next.js / React.js
   - integrated 3rd-party API and leaflet map
+=======
+- My note: [https://chip-beam-37e.notion.site/](https://chip-beam-37e.notion.site/Wei-s-technology-note-f9d0f047f383410e836c317186fb3b03)
+
+## Projects
+
+- [Azukibao Branded Website](https://azukibao.netlify.app/) - [source code](https://github.com/WeiLin18/Azukibao2.0/tree/dev) / [mockup](https://xd.adobe.com/view/4a8d6a5f-8cde-44c6-9019-3c3089f40534-1fde/grid)
+  - Chinese bun Branded Website
+  - web design / product photography / web development
+  - developed by React.js / integrated Airtable API, instgram API
+- [Nino Car](https://weilin18.com/) - [source code](https://github.com/WeiLin18/Ninocar) / [mockup](https://xd.adobe.com/view/225223e6-bc6e-42a1-8491-e0772d33bc17-7701/screen/f7285d6d-3eb6-4540-80d2-dbea640de9ed/specs/)
+  - B2C E-Commerce Website selling model car
+  - team project(7 members), responsible for web design / product photography / web(front side) development / deployment
+  - developed by Vue.js, PHP, MySQL, Gulp / including front side and back side(CMS)  
+- [TaiwanGo](https://quizzical-allen-890ea7.netlify.app/) - [source code](https://github.com/WeiLin18/TaiwanGo)
+  - travel guide website
+  - developed by Next.js / integrated 3rd-party API and leaflet map
+>>>>>>> 0dbb797860ac080f5614e175e578fbd4b9a1b9e5
 - [2021 Taiwanese FE survey](https://2021-fe-survey-production.vercel.app/) - [source code](https://github.com/WeiLin18/2021-FE-survey)
   - survey results visualization
-  - developed by Next.js / React.js
-  - integrated Chart.js and MongoDB database
+  - developed by Next.js, MongoDB / integrated Chart.js and Mongose
 - Collections
   - [Web layout training](https://github.com/WeiLin18/Web-Layout-Training--Collections)
   - [React workshop](https://github.com/WeiLin18/React-workshop-collections)
