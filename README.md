@@ -3,26 +3,9 @@
 - Name: Wei Lin
 - Role: Frontend Developer
 - My story: https://weilin18.medium.com/
-<<<<<<< HEAD
+- My note: [https://chip-beam-37e.notion.site/](https://chip-beam-37e.notion.site/Wei-s-technology-note-f9d0f047f383410e836c317186fb3b03)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeiLin18&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-## Projects
-
-- [Azukibao Branded Website](https://azukibao.netlify.app/) - [source code](https://github.com/WeiLin18/Azukibao2.0/tree/dev)
-  - Chinese bun Branded Website
-  - developed by React.js
-  - web design / product photography / FE development
-- [Nino Car](https://weilin18.com/) - [source code](https://github.com/WeiLin18/Ninocar) / [mockup](https://xd.adobe.com/view/225223e6-bc6e-42a1-8491-e0772d33bc17-7701/screen/f7285d6d-3eb6-4540-80d2-dbea640de9ed/specs/)
-  - B2C E-Commerce Website selling model car
-  - developed by Vue.js / PHP / MySQL
-  - team project, responsible for web design / product photography / FE development / webserver building
-- [TaiwanGo](https://quizzical-allen-890ea7.netlify.app/) - [source code](https://github.com/WeiLin18/TaiwanGo)
-  - travel guide website
-  - developed by Next.js / React.js
-  - integrated 3rd-party API and leaflet map
-=======
-- My note: [https://chip-beam-37e.notion.site/](https://chip-beam-37e.notion.site/Wei-s-technology-note-f9d0f047f383410e836c317186fb3b03)
 
 ## Projects
 
@@ -33,11 +16,10 @@
 - [Nino Car](https://weilin18.com/) - [source code](https://github.com/WeiLin18/Ninocar) / [mockup](https://xd.adobe.com/view/225223e6-bc6e-42a1-8491-e0772d33bc17-7701/screen/f7285d6d-3eb6-4540-80d2-dbea640de9ed/specs/)
   - B2C E-Commerce Website selling model car
   - team project(7 members), responsible for web design / product photography / web(front side) development / deployment
-  - developed by Vue.js, PHP, MySQL, Gulp / including front side and back side(CMS)  
+  - developed by Vue.js, PHP, MySQL, Gulp / including front side and back side(CMS)
 - [TaiwanGo](https://quizzical-allen-890ea7.netlify.app/) - [source code](https://github.com/WeiLin18/TaiwanGo)
   - travel guide website
   - developed by Next.js / integrated 3rd-party API and leaflet map
->>>>>>> 0dbb797860ac080f5614e175e578fbd4b9a1b9e5
 - [2021 Taiwanese FE survey](https://2021-fe-survey-production.vercel.app/) - [source code](https://github.com/WeiLin18/2021-FE-survey)
   - survey results visualization
   - developed by Next.js, MongoDB / integrated Chart.js and Mongose
@@ -85,10 +67,9 @@
   - AdobeXd (main)
   - Adobe Photoshop / Illustrator / Lightroom
 
-#### Learning List recently
+#### Learning List recently (2022/1)
 
 - TypeScript
-- Data visualization, like Chart.js
 - Tailwind
 
 ## Interests
