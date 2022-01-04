@@ -47,7 +47,7 @@
 - Testing
   - Jest / React-Testing-Library
 - Recent tech stack
-  - Next.js + Material-UI + emotions + axios + swr + Jest
+  - Next.js + Material-UI + Emotions + Axios + SWR + Jest
 
 #### Backend / Others
 
@@ -69,6 +69,7 @@
 
 #### Learning List recently (2022/1)
 
+- SWR
 - TypeScript
 - Tailwind
 
