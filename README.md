@@ -9,6 +9,9 @@
 
 ## Projects
 
+- [TaiwanGo](https://quizzical-allen-890ea7.netlify.app/) - [source code](https://github.com/WeiLin18/TaiwanGo)
+  - travel guide website
+  - developed by Next.js / integrated 3rd-party API and leaflet map
 - [Azukibao Branded Website](https://azukibao.netlify.app/) - [source code](https://github.com/WeiLin18/Azukibao2.0/tree/dev) / [mockup](https://xd.adobe.com/view/4a8d6a5f-8cde-44c6-9019-3c3089f40534-1fde/grid)
   - Chinese bun Branded Website
   - web design / product photography / web development
@@ -17,9 +20,6 @@
   - B2C E-Commerce Website selling model car
   - team project(7 members), responsible for web design / product photography / web(front side) development / deployment
   - developed by Vue.js, PHP, MySQL, Gulp / including front side and back side(CMS)
-- [TaiwanGo](https://quizzical-allen-890ea7.netlify.app/) - [source code](https://github.com/WeiLin18/TaiwanGo)
-  - travel guide website
-  - developed by Next.js / integrated 3rd-party API and leaflet map
 - [2021 Taiwanese FE survey](https://2021-fe-survey-production.vercel.app/) - [source code](https://github.com/WeiLin18/2021-FE-survey)
   - survey results visualization
   - developed by Next.js, MongoDB / integrated Chart.js and Mongose
