@@ -67,11 +67,10 @@
   - AdobeXd (main)
   - Adobe Photoshop / Illustrator / Lightroom
 
-#### Learning List recently (2022/1)
+#### Learning List recently (2022/2)
 
-- SWR
 - TypeScript
-- Tailwind
+- Algorithms
 
 ## Interests
 
