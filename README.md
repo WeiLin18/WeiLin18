@@ -1,11 +1,11 @@
 ## About Me
 
-- Name: Wei Lin
+- Name: Wei Lin (Iko)
 - Role: Frontend Developer
 - My story: https://weilin18.medium.com/
 - My note: [https://chip-beam-37e.notion.site/](https://chip-beam-37e.notion.site/Wei-s-technology-note-f9d0f047f383410e836c317186fb3b03)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeiLin18&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeiLin18&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Projects
 
@@ -67,10 +67,10 @@
   - AdobeXd (main)
   - Adobe Photoshop / Illustrator / Lightroom
 
-#### Learning List recently (2022/2)
+#### Learning List recently (2022/3)
 
 - TypeScript
-- Algorithms
+- GraphQL
 
 ## Interests
 
