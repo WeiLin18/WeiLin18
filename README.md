@@ -1,6 +1,6 @@
 ## About Me
 
-- Name: Iko Lin
+- Name: Wei Lin (Iko)
 - Role: Frontend Developer
 - My story: https://weilin18.medium.com/
 - My note: [https://chip-beam-37e.notion.site/](https://chip-beam-37e.notion.site/Wei-s-technology-note-f9d0f047f383410e836c317186fb3b03)
