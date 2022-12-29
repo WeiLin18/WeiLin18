@@ -23,9 +23,6 @@
 - [2021 Taiwanese FE survey](https://2021-fe-survey-production.vercel.app/) - [source code](https://github.com/WeiLin18/2021-FE-survey)
   - survey results visualization
   - developed by Next.js, MongoDB / integrated Chart.js and Mongose
-- Collections
-  - [Web layout training](https://github.com/WeiLin18/Web-Layout-Training--Collections)
-  - [React workshop](https://github.com/WeiLin18/React-workshop-collections)
 
 ## Knowledge
 
@@ -34,9 +31,9 @@
 #### Frontend
 
 - Basic
-  - HTML / CSS / JavaScript
+  - HTML / CSS
   - SASS / SCSS
-  - TypeScript (learning)
+  - JavaScript / TypeScript
 - Framework
   - Next.js / React.js (main)
   - Vue.js / Svelte.js (have experience)
@@ -64,13 +61,8 @@
 - UX Tools
   - persona / storybook / user journey map / ...
 - UI Tools
-  - AdobeXd (main)
+  - Figma / AdobeXd
   - Adobe Photoshop / Illustrator / Lightroom
-
-#### Learning List recently (2022/2)
-
-- TypeScript
-- Algorithms
 
 ## Interests
 
