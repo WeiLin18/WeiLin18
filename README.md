@@ -1,11 +1,11 @@
 ## About Me
 
-- Name: Wei Lin
+- Name: Wei Lin (Iko)
 - Role: Frontend Developer
 - My story: https://weilin18.medium.com/
 - My note: [https://chip-beam-37e.notion.site/](https://chip-beam-37e.notion.site/Wei-s-technology-note-f9d0f047f383410e836c317186fb3b03)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeiLin18&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeiLin18&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Projects
 
@@ -37,10 +37,6 @@
 - Framework
   - Next.js / React.js (main)
   - Vue.js / Svelte.js (have experience)
-  - related dep: Redux / VueX
-- UI library
-  - Material-UI / Bootstrap (main)
-  - Chakra UI (have experience)
 - Testing
   - Jest / React-Testing-Library
 - Recent tech stack
@@ -50,10 +46,6 @@
 
 - Languages & Database
   - PHP / MySQL / MongoDB (have experience)
-- Version Management
-  - git / git-flow
-- Team work tools
-  - JIRA (main) / Trello / Notion / Swagger / draw.io
 
 #### UX/UI Design
 
@@ -67,6 +59,6 @@
 ## Interests
 
 - Programming
-- [Illustrations](https://www.instagram.com/weilin_life/)
+- [Illustrations](https://www.instagram.com/iko__illust/)
 - [Food Photography](https://www.google.com.tw/maps/contrib/103083389902296572727)
 - Learning Japanese (passed JLPT N1)
