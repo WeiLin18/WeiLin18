@@ -28,34 +28,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeiLin18&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Frontend
-
-- Basic
-  - HTML / CSS
-  - SASS / SCSS
-  - JavaScript / TypeScript
-- Framework
-  - Next.js / React.js (main)
-  - Vue.js / Svelte.js (have experience)
-- Testing
-  - Jest / React-Testing-Library
-- Recent tech stack
-  - Next.js + Material-UI + Emotions + Axios + SWR + Jest
-
-#### Backend / Others
-
-- Languages & Database
-  - PHP / MySQL / MongoDB (have experience)
-
-#### UX/UI Design
-
-- Have academic project experiences in UX/UI Design (my major in the university)
-- UX Tools
-  - persona / storybook / user journey map / ...
-- UI Tools
-  - Figma / AdobeXd
-  - Adobe Photoshop / Illustrator / Lightroom
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=WeiLin18&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+  
 ## Interests
 
 - Programming
