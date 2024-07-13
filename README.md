@@ -15,7 +15,7 @@
   
 ## Interests
 
-- Programming
-- [Illustrations](https://www.instagram.com/iko__illust/)
-- [Food Photography](https://www.google.com.tw/maps/contrib/103083389902296572727)
-- Learning Japanese (passed JLPT N1)
+- [Latte Art](https://www.instagram.com/iko___life/)
+- [Foodie](https://www.google.com.tw/maps/contrib/103083389902296572727) (Google Maps lv8 Contributor)
+- Japanese Language (JLPT N1 Certified)
+- Hiking / Badminton / Weight Training / Traveling
