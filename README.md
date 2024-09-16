@@ -17,5 +17,4 @@
 
 - [Latte Art](https://www.instagram.com/iko___life/)
 - [Foodie](https://www.google.com.tw/maps/contrib/103083389902296572727) (Google Maps lv8 Contributor)
-- Japanese Language (JLPT N1 Certified)
 - Hiking / Badminton / Weight Training / Traveling
