@@ -14,6 +14,6 @@
   
 ## Interests
 
-- [Latte Art](https://www.instagram.com/iko___life)
-- [Foodie](https://www.google.com.tw/maps/contrib/103083389902296572727) (Google Maps lv8 Contributor)
+- Latte Art
+- Foodie (Google Maps lv8 Contributor)
 - Hiking / Badminton / Weight Training / Traveling
